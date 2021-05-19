@@ -1,0 +1,76 @@
+#cform{
+ display: block;
+ float: left;
+ padding-left: 15em;
+ width: 40em;
+ margin-top: 08em;
+
+}
+#map{
+ display: block;
+ float:left;
+ padding-left: 15em;
+ width: 50em;
+ margin-bottom: 05em;
+}
+
+.up{
+	font-family: Arial;
+	font-size: 25px;
+}
+.down{
+	font-family: Arial;
+	font-size: 25px;
+	}
+.name{
+	background-color: #f4f7f9;
+	border-radius: 2px;
+	width: 100%;
+	padding: 10px;
+	text-decoration: none;
+	border: none;
+	display: inline-block;
+	vertical-align: top;
+	height: 40px;
+}
+.mail{
+	background-color: #f4f7f9;
+	border-radius: 2px;
+	padding: 10px;
+	text-decoration: none;
+	border: none;
+	outline: none;
+	display: inline-block;
+	vertical-align: top;
+	height: 40px;
+}
+.message{
+	background-color: #f4f7f9;
+	border-radius: 2px;
+	width: 100%;
+	padding: 10px;
+	text-decoration: none;
+	border: none;
+	outline: none;
+	display: inline-block;
+	vertical-align: top;
+	height: 100px;
+}
+.btn{
+	background-color: black;
+	color: white;
+	transition: .8s;
+	line-height: 50%;
+	width: 30%;
+	padding: 10px;
+	text-decoration: none;
+	border: none;
+	outline: none;
+	display: inline-block;
+	vertical-align: top;
+	height: 35px;
+
+}
+.btn:hover{
+	background-color: red;
+}

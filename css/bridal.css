@@ -1,0 +1,19 @@
+h1{
+	font-size: 40px;
+	margin-left: 25px;
+	margin-top: 03em;
+}
+.gallery{
+	margin: 40px 50px;
+	margin-top: 03em;
+}
+.gallery img{
+	transition: 1s;
+	padding: 10px;
+	margin: 15px;
+	width: 300px;
+}
+.gallery img:hover {
+	filter: grayscale(100%);
+	transform: scale(1.1);
+}
